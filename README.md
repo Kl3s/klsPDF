@@ -5,7 +5,7 @@
 
 Hiding executable files in PDF documents
 
-![ep](https://user-images.githubusercontent.com/34893261/83931973-092ac980-a776-11ea-9680-a299902d5ae3.png)
+![ep](https://ibb.co/t8kVkpJ)
 
 ## Legal disclaimer:
 
